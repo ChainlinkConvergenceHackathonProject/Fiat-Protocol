@@ -1,0 +1,5 @@
+{
+  "name": "Fiat Protocol",
+  "description": "A DeFi protocol for Digital Fiat currencies (USD, EUR, JPY, MXN) wrapped as yield-bearing USDY on Stellar.",
+  "requestFramePermissions": []
+}
