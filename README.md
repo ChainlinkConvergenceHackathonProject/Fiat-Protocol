@@ -5,7 +5,8 @@ A DeFi protocol for Digital Fiat currencies (USD, EUR, JPY, MXN) wrapped as yiel
 - receive, send, and pay with digital fiat anywhere
 - earn yield from your digital fiat
 - manage inventory and accept digital assets
-- manage personnel and pay utilizing digital fiat and/or digital assets
+- manage personnel and employee pay utilizing digital fiat and/or digital assets
+- integrate & manage stocks and real-estate backed by digital dollars (earn interest)
 
 ## Architecture
 
