@@ -2,6 +2,11 @@
 
 A DeFi protocol for Digital Fiat currencies (USD, EUR, JPY, MXN) wrapped as yield-bearing USDY on the Stellar network.
 
+- receive, send, and pay with digital fiat anywhere
+- earn yield from your digital fiat
+- manage inventory and accept digital assets
+- manage personnel and pay utilizing digital fiat and/or digital assets
+
 ## Architecture
 
 ### 1. Smart Contracts (Rust/Soroban)
